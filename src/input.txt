@@ -1,0 +1,10 @@
+hello 3
+java 6
+world 5
+hello 3
+java 6
+java 6
+world 5
+hello 3
+hello 3
+world 5
